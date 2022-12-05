@@ -1,0 +1,14 @@
+We have an issue in our project. during the sign up the user can enter his 
+details but on switching to the sign page the data gets restored. We tried 
+a lot but we couldn't fix this problem. We are very sorry for the issue.
+
+So we have provided inbuilt usernames and password through which we can 
+login and use the dictionary.
+
+username=["Sravan","Mofe","Mahir","Kevin"]
+password=["Sravan2022","Mofe2022","Mahir2022","Kevin2022"] 
+
+Another issue is that we didn't add profile to the project as mentioned in the 
+design(phase2). So we only created popup for logout.
+
+To test the project please start only from "lions.html" (ignore other html files)
